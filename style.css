@@ -9,5 +9,20 @@ body {
   
   p {
     font-family: verdana;
-    font-size: 30px;
+    font-size: 30px; 
+    >?aumenta a palavra cadastro
   }
+  .page{
+    padding: 15px;
+    border: 1px solid black;
+    position: absolute;
+    top: 30%;
+    left: 38%;
+    transform: translate(-50% -50%);
+    
+    }
+    div{
+      background-color: antiquewhite;
+      border-radius: 6%;
+    padding: 50px;
+    }
